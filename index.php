@@ -22,7 +22,7 @@
                     <a href="<?php echo BASE_URL."login.php?page=register"; ?>">register</a>
                 </div>
 
-                <a href="<?php echo BASE_URL."login.php?page=keranjang" ;?>">
+                <a href="<?php echo BASE_URL."login.php?page=keranjang" ;?>" id="button-keranjang">
                     <img src="<?php echo BASE_URL."img/cart.png"; ?>" />
                 </a>
             </div>
